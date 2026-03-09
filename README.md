@@ -26,12 +26,11 @@ Este projeto foi desenvolvido com o objetivo de **praticar manipulação do DOM,
  Como executar o projeto
 
 1. Clone o repositório
-2. Abra o arquivo `index.html` no navegador
-
+2. Abra o arquivo index.html no navegador
 ou acesse a versão online
+**https://andrealmeidao.github.io/Lista-de-Tarefas-To-Do/**
 
  Aprendizados
-
 Durante o desenvolvimento deste projeto foram praticados:
 
 * Manipulação do DOM
