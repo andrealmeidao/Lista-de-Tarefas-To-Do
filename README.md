@@ -43,3 +43,4 @@ Durante o desenvolvimento deste projeto foram praticados:
 
 André Almeida
 Estudante de **Ciência da Computação** e **Técnico em Tecnologia da Informação**, com interesse em desenvolvimento web e automação de processos.
+- LinkedIn https://www.linkedin.com/in/andr%C3%A9-almeida-03a192377/
